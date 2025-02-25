@@ -1,3 +1,5 @@
+# Log-Archive-Tool
+
 ## Installation
 1. Clone the repository or download the `log-archive.sh` script:
    ```sh
