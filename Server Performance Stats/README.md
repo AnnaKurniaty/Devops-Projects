@@ -29,4 +29,4 @@ Run the script using:
 
 ## Project Page
 For more details, visit the project page:
-https://roadmap.sh/projects/server-stats
+[https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
